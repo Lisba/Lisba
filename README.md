@@ -1,5 +1,17 @@
+# Lisbaldy Ojeda - @Lisba
+
 ### Hi there 👋
 
+- 🌱 I'm currently an IT student at UTN Buenos Aires.
+- ⚡ Passionate about technology and discovering how things work.
+- 😄 I've fun learning about new technologies and playing with it on my own.
+- ✈️ In love with aircrafts.
+- 💬 Ask me about airplanes and web development (I´m not an expert but I´ll do my best, promise).
+
+## 📫 How to reach me:
+
+- [Linkedin](https://www.linkedin.com/in/lisbaldyojeda/)
+- [Email](lisba7474@gmail.com)
 <!--
 **Lisba/Lisba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
