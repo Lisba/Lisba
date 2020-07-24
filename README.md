@@ -11,7 +11,7 @@
 ## 📫 How to reach me:
 
 - [Linkedin](https://www.linkedin.com/in/lisbaldyojeda/)
-- [Email](lisba7474@gmail.com)
+- [Email](mailto:lisba7474@gmail.com)
 <!--
 **Lisba/Lisba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
