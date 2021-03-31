@@ -1,6 +1,4 @@
-# Lisbaldy Ojeda - @Lisba
-
-### Hi there 👋
+<h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
 - 🌱 I'm currently an IT student at UTN Buenos Aires.
 - ⚡ Passionate about technology and discovering how things works.
