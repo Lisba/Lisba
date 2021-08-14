@@ -4,7 +4,7 @@
 - ⚡ Passionate about technology and discovering how things works.
 - 😄 I've fun learning about new technologies and playing with it on my own.
 - ✈️ In love with aircrafts.
-- 💬 Ask me about airplanes and web development (I´m not a super expert but I´ll do my best, promise).
+- 💬 Ask me about airplanes and mobile/web development (I´m not a super expert but I´ll do my best, promise).
 
 ## 📫 How to reach me:
 
