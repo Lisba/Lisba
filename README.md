@@ -1,26 +1,13 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
-- 🌱 I'm currently an IT student at UTN Buenos Aires.
-- ⚡ Passionate about technology and discovering how things works.
-- 😄 I've fun learning about new technologies and playing with it on my own.
-- ✈️ In love with aircrafts.
-- 💬 Ask me about airplanes and mobile/web development (I´m not a super expert but I´ll do my best, promise).
+- 🌱 I'm currently a frontend team lead software developer skilled in the javascript ecosystem.
+- ⚡ Passionate about technology and discovering how things work, constantly seeking out new learning opportunities.
+- 🤩 I find joy in learning about new technologies and enjoy playing with them on my own time. Happy to share my knowledge and help others on their learning journey.
+- ✈️ In love with aircraft. Feel free to strike up a conversation about aviation!
+- 💬 Reach out if you have questions about airplanes or need assistance with mobile/web development. I may not be a super expert, but I'll do my best to help you. Let's connect and create amazing things!
+- 😂 Fun fact: I learned to fly planes from the age of 19 and I love auto mechanics but even now I still don't know how to drive cars 😅.
 
 ## 📫 How to reach me:
 
 - [Linkedin](https://www.linkedin.com/in/lisbaldyojeda/)
 - [Email](mailto:lisba7474@gmail.com)
-<!--
-**Lisba/Lisba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
