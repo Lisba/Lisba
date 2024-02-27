@@ -5,7 +5,7 @@
 - 🤩 I find joy in learning about new technologies and enjoy playing with them on my own time. Happy to share my knowledge and help others on their learning journey.
 - ✈️ In love with aircraft. Feel free to strike up a conversation about aviation!
 - 💬 Reach out if you have questions about airplanes or need assistance with mobile/web development. I may not be a super expert, but I'll do my best to help you. Let's connect and create amazing things!
-- 😂 Fun fact: I learned to fly planes from the age of 19 and I love auto mechanics but even now I still don't know how to drive cars 😅.
+- 😂 Fun fact: I learned to fly planes from the age of 19 but I learned to drive cars at the age of 30 (weird considering that I love auto mechanics) 😅.
 
 ## 📫 How to reach me:
 
